@@ -9,14 +9,28 @@
     android:layout_height="match_parent"
     tools:context="com.example.android.middleearth.MainMenu">
 
+
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/MainMenuPic"
+        android:src="@drawable/mainmenupic"
 
         />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/start"
+        android:layout_marginBottom="100dp"
+        android:text="@string/app_name"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:textColor="@android:color/white"
+
+        />
 
 
     <EditText
@@ -25,24 +39,28 @@
         android:layout_centerHorizontal="true"
         android:id="@+id/name_text_view"
         android:layout_marginTop="150dp"
-        android:text="@string/enter_name"
+        android:hint="@string/enter_name"
         android:textColor="@android:color/white"
         android:textAllCaps="true"
         android:textStyle="bold"
+        android:textColorHint="@android:color/white"
 
         />
 
     <Button
         android:layout_width="wrap_content"
+        android:id="@+id/start"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/name_text_view"
         android:layout_marginTop="30dp"
-        android:text="@string/start_game"
+        android:text="@string/start"
+        android:onClick="onClickSelect"
 
 
 
         />
+
 
 
 

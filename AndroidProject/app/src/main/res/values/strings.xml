@@ -1,5 +1,32 @@
 <resources>
     <string name="app_name">Middle Earth</string>
     <string name="enter_name">Enter Name</string>
-    <string name="start_game">Start</string>
+    <string name="start">Start Quizz</string>
+    <string name="name_that_character">Name that character!</string>
+    <string name="question1.1">\“Nine companions. So be it. You shall be the fellowship of the ring.\” </string>
+    <string name="question2">What was Gollums hobbit name?</string>
+    <string name="question2.1">Gollum wasn\'t always Gollum. He was a hobbit of the River-folk. What was his name?</string>
+    <string name="question3.1">\“I don\'t know half of you half as well as I should like, and I like less than half of you half as well as you deserve.\”</string>
+    <string name="question4">Why can Arwen choose a mortal life?</string>
+    <string name="question4.1">Arwen chooses to give up her immortality to be with her love, Aragorn, who is a mortal man.</string>
+    <string name="question5">Who doesn’t belong to the Fellowship of the Ring</string>
+    <string name="question5.1">The Fellowship was formed at Rivendell. It was decided that it should be a relatively small company. Who did not belong in it:</string>
+    <string name="question6">What is Aragorn‘s horse‘s name?</string>
+    <string name="question6.1">In the film adaptions of "Lord of the Rings," what is Aragorn's horse called?</string>
+    <string name="question7">For hobbits, what meal comes after elevensies?</string>
+    <string name="question7.1">Hobbits eat seven meals a day. What comes directly after elevensies?</string>
+    <string name="question8.1">\"I will not say do not weep, for not all tears are an evil.\" </string>
+    <string name="question9">What does Bilbo tell Gandalf the end of his book will be?</string>
+    <string name="question9.1">Bilbo Baggins writes a book about his adventures. What is the last line?</string>
+    <string name="question10.1">\"They do not see what lies ahead, when sun has faded and moon is dead.\"</string>
+    <string name="answer4.1">Her immortality is tied to her necklace.</string>
+    <string name="answer4.2">Galadriel, used Nenya to give Arewen mortality.</string>
+    <string name="answer4.3">All elves can choose a mortal life</string>
+    <string name="answer4.4">Her family has a human ancestry</string>
+    <string name="answer9.1">\"And he lived happily ever after till the end of his days.\"</string>
+    <string name="answer9.2">\"And he ventured into the West.\"</string>
+    <string name="answer9.3">\“One adventure ends and another begins\”</string>
+    <string name="answer9.4">\“There he went and back he goes\”</string>
+    <string name="winner">Congratulations 10 out of 10\! You\'re fellow LOTR geek'!</string>
+    <string name="looser">Sorry but you\'ve failed. Try re-checking the answers\!</string>
 </resources>
